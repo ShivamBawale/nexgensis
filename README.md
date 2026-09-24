@@ -5,7 +5,7 @@ A small admin dashboard where a user logs in and manages products, built on the 
 
 **Stack:** Next.js 16 (App Router) · React 19 · Tailwind CSS 4 · Axios
 
-- Live demo: _coming soon (Vercel)_
+- Live demo: https://nexgensis-admin.netlify.app
 - Demo login: `emilys` / `emilyspass`
 
 ## Setup
